@@ -10,7 +10,7 @@ When the results are displayed, user can click the link for each result which di
 The code is written in PHP and performs raw web search using libcurl.
 The information from the HTML response is extracted using the PHP Simple HTML DOM Parser.
 
-Code is incomplete to security reasons.
+Code is incomplete for security reasons.
 
 ===============================================================================================
 
