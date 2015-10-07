@@ -1,7 +1,5 @@
-# Project3
-=============
-
-Custom search application in PHP
+# Custom search application in PHP
+----------------------------------------
 
 The project focuses on ELECTRONICS/GADGETS search. Application displays the search results from 3 websites. 
 Important details like title, image, price and link are extracted from search results from each website and are displayed to the user.
@@ -11,6 +9,4 @@ The code is written in PHP and performs raw web search using libcurl.
 The information from the HTML response is extracted using the PHP Simple HTML DOM Parser.
 
 Code is incomplete for security reasons.
-
-===============================================================================================
-
+-----------------------------------------------------------------------------------------
